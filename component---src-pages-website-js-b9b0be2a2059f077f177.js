@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkv4=self.webpackChunkv4||[]).push([[530],{4994:function(e,t,h){h.r(t);var n=h(7294),s=h(5444);t.default=function(){return n.createElement(s.Link,{to:"/"}," the site has been moved to https://shubhmaheshwari.github.io/ ")}}}]);
+//# sourceMappingURL=component---src-pages-website-js-b9b0be2a2059f077f177.js.map
